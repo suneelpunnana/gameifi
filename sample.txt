@@ -1,2 +1,3 @@
 this is sample file for commits
+second line is continue for the text
 
